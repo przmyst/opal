@@ -4,7 +4,7 @@ use serde::{Deserialize, Serialize};
 use cw20_base::msg::ExecuteMsg as Cw20ExecuteMsg;
 
 const BURN_ADDRESS: &str = "terra1sk06e3dyexuq4shw77y3dsv480xv42mq73anxu";
-const CW20_CONTRACT_ADDRESS: &str = "terra1fvd5fvye7kgk0gudks6qtjz5nv6hcrdyukke59uj493w6496rv6sk87wpu";
+const CW20_CONTRACT_ADDRESS: &str = "terra1acpqql6meuzgu54muvt7wmd0z03nfkxwydmrajd03ykehurxlysqu3p25n";
 const LP_PROVIDER_ADDRESS: &str = "terra1hchcv5glp9aqgwp88lpw45htssz3g4q3m0rear";
 
 #[derive(Serialize, Deserialize, Clone, Debug, PartialEq)]
